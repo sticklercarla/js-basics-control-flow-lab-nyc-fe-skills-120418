@@ -8,3 +8,5 @@ function scuberGreetingForFeet(someValue) {
     return ("I will gladly take your thirty bucks.")
   }
   } 
+
+function ternaryCheckCity ()
