@@ -17,7 +17,6 @@ function ternaryCheckCity (someCity) {
     break;
     case "not generous": return = "Thank you"
     break;
-    default: return
-    
+    default: return = "Bye"
   }
 
