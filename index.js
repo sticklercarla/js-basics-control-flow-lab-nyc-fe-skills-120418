@@ -5,4 +5,4 @@ function scuberGreetingForFeet(someValue) {
   } else if (someValue >= 2000) {
     return ("I will gladly take your 30 bucks.")
   }
-
+  } 
